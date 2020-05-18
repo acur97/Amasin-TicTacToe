@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: simbolos
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3b3b6a7e25565dd4a99d7f6cd86c6710, type: 3}
+    totalSpriteSurfaceArea: 873600
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 488f41f888de9806fa91662bb2b03664
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1a669634768829946bb0615d185bc11d, type: 3}
+  - {fileID: 21300000, guid: 0eb2be6cd2b4a204596f57f99239aae4, type: 3}
+  - {fileID: 21300000, guid: 0f99c5de49eb5844f90706be250afbf1, type: 3}
+  - {fileID: 21300000, guid: 4cc1e21f81d483a4bb461a5c9a2e172c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - symbol-chip
+  - symbol-diamond
+  - symbol-club
+  - symbol-heart
+  m_Tag: simbolos
+  m_IsVariant: 0
